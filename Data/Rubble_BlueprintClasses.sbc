@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+<Definitions xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+    <BlueprintClassEntries>
+        <!-- Add in my Custom Large Block -->
+        <Entry Class="LargeBlocks" BlueprintSubtypeId="CubeBlock/LargeRubbleArmorBlock"/>
+
+        <!-- Made in Basic Assembler -->
+        <Entry Class="Components" BlueprintSubtypeId="RubbleComponent"/>
+
+        <!-- Made in Basic Assembler -->
+        <Entry Class="SimpleComponents" BlueprintSubtypeId="RubbleComponent"/>
+
+        <!-- Made in Survival Kit -->
+        <Entry Class="BasicComponents" BlueprintSubtypeId="RubbleComponent"/>
+    </BlueprintClassEntries>
+</Definitions>

@@ -1,0 +1,29 @@
+<?xml version="1.0"?>
+<Definitions xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+    <Components>
+        <Component>
+            <Id>
+                <TypeId>Component</TypeId>
+                <SubtypeId>Rubble</SubtypeId>
+            </Id>
+            <DisplayName>Rubble</DisplayName>
+            <Icon>Textures\GUI\Icons\component\Cartridge_Icon.dds</Icon>
+            <Size>
+                <X>0.25</X>
+                <Y>0.25</Y>
+                <Z>0.03</Z>
+            </Size>
+            <Mass>15</Mass>
+            <Volume>8</Volume>
+            <Model>Models\Components\Cartridge.mwm</Model>
+            <PhysicalMaterial>Rock</PhysicalMaterial>
+            <MaxIntegrity>5</MaxIntegrity>
+            <DropProbability>0.3</DropProbability>
+            <Health>14</Health>
+            <CanPlayerOrder>true</CanPlayerOrder>
+
+            <MinimumAcquisitionAmount>10</MinimumAcquisitionAmount>
+            <MaximumAcquisitionAmount>50</MaximumAcquisitionAmount>
+        </Component>
+    </Components>
+</Definitions>

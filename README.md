@@ -32,3 +32,7 @@ Adds Category Menu for the block(s)
 Adds a new Group which shows up in the initial G menu!
 
 * [Rubble Menu Groups](./Data/Rubble_Menu_Groups.sbc)
+
+## License
+
+Anything owned by Keen Software House is their own problem. See [License](LICENSE) For anything else.

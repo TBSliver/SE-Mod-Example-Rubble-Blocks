@@ -20,6 +20,10 @@
             <MaxIntegrity>5</MaxIntegrity>
             <DropProbability>0.3</DropProbability>
             <Health>14</Health>
+            <MinimumOfferAmount>10</MinimumOfferAmount>
+            <MaximumOfferAmount>50</MaximumOfferAmount>
+            <MinimumOrderAmount>10</MinimumOrderAmount>
+            <MaximumOrderAmount>50</MaximumOrderAmount>
             <CanPlayerOrder>true</CanPlayerOrder>
 
             <MinimumAcquisitionAmount>10</MinimumAcquisitionAmount>
